@@ -2,7 +2,7 @@
 
 I'm a **Computer Science major** at **Stony Brook University** with a strong interest in **machine learning** and **data science**.
 
-## Projects
+## Recent Project
 
 - **AI-Powered product recommender**: a chat-based shopping assistant that uses AI to give personalized product recommendations.
 
