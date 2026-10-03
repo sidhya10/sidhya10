@@ -14,6 +14,4 @@ I'm a **Computer Science major** at **Stony Brook University** with a strong int
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sidhya-jeyaram-8a844b2a8/?isSelfProfile=true" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_LinkedIn.svg" alt="LinkedIn" height="40" /> </a> </p>
